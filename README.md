@@ -16,4 +16,4 @@ Suitable for learners aiming to build hands-on ML skills
 
 Open for contributions and licensed under MIT
 
-Maintained by Fahim Masiath.
+Maintained by Masiath.
